@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhf2018&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhf2018)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on alibaba for a year and a half as a Java development engineer since i graduated from bupt
+- 🌱 I’m currently learning risk control & ai 
+- 😄 I like playing video games、magic cube、coding、reading、cars、sports competition、painting and astronomy
+- 📫 How to reach me: 1146953160m@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhf2018&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)  
+----  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhf2018&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
