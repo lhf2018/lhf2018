@@ -7,7 +7,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhf2018&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)  
 ----  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhf2018&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhf2018&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+----
+![Visitor Count](https://profile-counter.glitch.me/lhf2018/count.svg)
 
 
 
