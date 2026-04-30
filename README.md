@@ -9,7 +9,7 @@
 ----  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhf2018&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ----
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lhf2018.lhf2018)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=lhf2018&label=Hello%20Visitors&countColor=%23263759&style=plastic)
 
 
 
