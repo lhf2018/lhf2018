@@ -1,15 +1,24 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on alibaba for a year and a half as a Java development engineer since i graduated from bupt
-- 🌱 I’m currently learning risk control & ai 
-- 😄 I like playing video games、magic cube、coding、reading、cars、sports competition、painting and astronomy
-- 📫 How to reach me: 1146953160m@gmail.com
+🔭 I’m currently focusing on recommendation system engineering.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhf2018&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)  
-----  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhf2018&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+⚙️ I have worked in risk control (e.g., Alibaba) and recommendation engineering (e.g., Meituan Waimai).
+
+📅 I’ve been working since 2021.
+
+🌱 I’m currently learning more about AI agents and applied LLMs.
+
+😄 I enjoy video games, magic cube, coding, reading, cars, sports competitions, painting, and astronomy.
+
+📫 How to reach me: 1146953160m@gmail.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=lhf2018&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lhf2018&layout=compact&theme=merko)
 ----
 ![Visitor Count](https://api.visitorbadge.io/api/visitors?path=lhf2018&label=Hello%20Visitors&countColor=%23263759&style=plastic)
+----
 
 
 
